@@ -1,4 +1,4 @@
-# Cave-Of-Doom-
+# Cave-Of-Doom-Beta
 Beta Version 1.0
 
 This is the beta version of CAVE OF DOOM. 
